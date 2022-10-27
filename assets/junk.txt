@@ -1,0 +1,31 @@
+create table users(
+    userid int primary key auto_increment,
+    userName varchar(128),
+    userUid varchar(128),
+    userPwd varchar(256)
+);
+
+
+
+CREATE TABLE contests(
+
+CID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+Cname VARCHAR(255),
+Creward VARCHAR(255),
+Ccost VARCHAR(255),
+Ccap Int,
+Cstate Int
+
+);
+
+
+Create TABLE userContestStock(
+    userid int,
+    CID int,
+    SID int,
+
+    PRIMARY KEY(userid,CID,SID),
+    FOREIGN KEY (userid) REFERENCES users(userid),
+    FOREIGN KEY (CID) REFERENCES contests(CID),
+    FOREIGN KEY (SID) REFERENCES stock_data(SID)
+);

@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.bal_info{
+    background-color: #2e3786;
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+
+}
+.bal{
+background-color: #00c699;
+padding: 1rem;
+border-radius: 2rem;
+font-size: 1.2rem;
+color: #2e3786;
+
+}
+
+.stock_card{
+    width: 90%;
+    display: flex;
+    margin: 1rem auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #00c699;
+    /* padding: 1rem; */
+    border-radius: 10px;
+}
+
+.stock_si{
+    width: 15%;
+    background-color: #2e3786;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+.stock_card .stock_name{
+    width: 30%;
+    
+}
+
+.stock_rate{
+    width: 28%;
+    background-color: #134a25;
+    color: white;
+    text-align: left;
+    padding: 1em;
+    border-radius: 10px;
+}
+
+
+
+.stock_card input[type = number]{
+    width: 30px;
+    margin: 0 1rem;
+    width: 10%;
+}
+
+.wrap{
+    display: flex;
+    justify-content: center;
+    column-gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.save_btn{
+    background-color: #09b442;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.submit_btn{
+    background-color: #1951aa;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+

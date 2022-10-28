@@ -26,7 +26,7 @@
 				<div class="profile-tab-nav border-right">
 					<div class="p-4">
 						<div class="img-circle text-center mb-3">
-							<img src="download.jpg" alt="Image" class="shadow">
+							<img src="" alt="Image" class="shadow">
 						</div>
 						<h4 class="text-center">Nandhu</h4>
 					</div>
@@ -60,31 +60,31 @@
 							<div class="col-md-6">
 								<div class="form-group">
 								  	<label>First Name</label>
-								  	<input type="text" class="form-control" value="Kiran">
+								  	<input type="text" class="form-control" value="Nandu">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
 								  	<label>Last Name</label>
-								  	<input type="text" class="form-control" value="Acharya">
+								  	<input type="text" class="form-control" value="S">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
 								  	<label>Email</label>
-								  	<input type="text" class="form-control" value="kiranacharya287@gmail.com">
+								  	<input type="text" class="form-control" value="1234@gmail.com">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
 								  	<label>Phone number</label>
-								  	<input type="text" class="form-control" value="+91 9876543215">
+								  	<input type="text" class="form-control" value="9156236548">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
 								  	<label>Company</label>
-								  	<input type="text" class="form-control" value="Kiran Workspace">
+								  	<input type="text" class="form-control" value="Makeaton">
 								</div>
 							</div>
 							<div class="col-md-6">

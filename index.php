@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">----------------------------------------------------------------------------------------------------------
+
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/style.css?v=<?php echo time();?>">
     <title>GROWI</title>
@@ -20,7 +23,7 @@
                 <div >
                     
                     <i class="ri-bar-chart-fill"></i>
-                    <p>Stocks</p>
+                    <p>Options</p>
                 
                 </div>
                 </a>
@@ -28,7 +31,7 @@
                 <a class="stocks" href="feed.php" >
                 <div class="feed ">
                     <i class="ri-file-list-3-line"></i>
-                    <p>Feed</p>
+                    <p>Insights</p>
                 </div>
                 </a>
             </div>
@@ -42,10 +45,10 @@
                 </div>
             </div>
 
-            <a href="contest/choose.php?id=1">
+            
             <div class="contest_card">
                 <p class="contest_heading">
-                    Saturday Stealer
+                    Nifty daily Expiry
                 </p>
                 <div class="contest_header">
                     <div class="reward">
@@ -80,18 +83,21 @@
                             <i class="ri-team-fill"></i>
                             <p>Left: 200</p>
                         </div>
+                        <a href="participation.php">
+                        <button type="button" class="btn btn-primary">Participate Now</button>
+                        </a>
+                        
                         <div class="max">
                             <i class="ri-team-fill"></i>
                             <p>Max: 2000</p>
                         </div>
                     </div>            
             </div>
-            </a>
 
             
             <div class="contest_card">
                     <p class="contest_heading">
-                        Long Runner
+                        Nifty Weekly Expiry
                     </p>
                     <div class="contest_header">
                         <div class="reward">
@@ -126,6 +132,9 @@
                                 <i class="ri-team-fill"></i>
                                 <p>Left: 500</p>
                             </div>
+                        <a href="participation.php">
+                        <button type="button" class="btn btn-primary">Participate Now</button>
+                        </a>
                             <div class="max">
                                 <i class="ri-team-fill"></i>
                                 <p>Max: 3000</p>
@@ -135,7 +144,7 @@
             
             <div class="contest_card">
                         <p class="contest_heading">
-                            Saturday Stealer
+                            Nifty Monthly Expiry
                         </p>
                         <div class="contest_header">
                             <div class="reward">
@@ -170,6 +179,9 @@
                                     <i class="ri-team-fill"></i>
                                     <p>Left: 500</p>
                                 </div>
+                                <a href="participation.php">
+                        <button type="button" class="btn btn-primary">Participate Now</button>
+                        </a>
                                 <div class="max">
                                     <i class="ri-team-fill"></i>
                                     <p>Max: 5000</p>
@@ -179,7 +191,7 @@
                     
             <div class="contest_card " style="margin-bottom: 6rem;">
                 <p class="contest_heading">
-                    Saturday Stealer
+                    Bank Nifty Expiry
                 </p>
                 <div class="contest_header">
                     <div class="reward">
@@ -214,6 +226,10 @@
                             <i class="ri-team-fill"></i>
                             <p>Left: 200</p>
                         </div>
+
+                        <a href="participation.php">
+                        <button type="button" class="btn btn-primary">Participate Now</button>
+                        </a>
                         <div class="max">
                             <i class="ri-team-fill"></i>
                             <p>Max: 8000</p>

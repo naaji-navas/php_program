@@ -28,28 +28,29 @@
                 <a class="stocks" href="feed.php" >
                 <div class="feed active">
                     <i class="ri-file-list-3-line"></i>
-                    <p>Feed</p>
+                    <p>Insights</p>
                 </div>
                 </a>
             </div>
 
 
             <div class="blog_card">
-                <div class="blog_left">
+                <!-- <div class="blog_left">
                     <img src="https://serpapi.com/searches/62c9c5faad7fa9cc177de464/images/cbf450ccacab9d50011f998ee05795d0b81582c8436e7b42.jpeg" alt="" class="blog_thumb">
-                </div>
-                <div class="blog_content">
+                </div> -->
+                <img src="./insight.jpeg" alt="">
+                <!-- <div class="blog_content">
                     <h3 class="blog_title">
                         Why Stocks?
                     </h3>
 
                     <p>
                         Gainers and Losers: 2 Tata stocks among 6 counters that were in limelight today - Newsmakers on D-Street
-                    </p>
+                    </p> -->
                 </div>
             </div>
 
-            <div class="blog_card">
+            <!-- <div class="blog_card">
                 <div class="blog_left">
                     <img src="https://serpapi.com/searches/62c9c5faad7fa9cc177de464/images/cbf450ccacab9d507e815040bc8571d2ef21ebc9b1cb7ae3.jpe" alt="" class="blog_thumb">
                 </div>
@@ -62,7 +63,7 @@
                         Gainers and Losers: 2 Tata stocks among 6 counters that were in limelight today - Newsmakers on D-Street
                     </p>
                 </div>
-            </div>
+            </div> -->
 
             <div class="blog_card">
                 <div class="blog_left">

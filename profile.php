@@ -248,7 +248,7 @@
                  </div>
                  <div class="footer_icon">
                     <a href="help.php">
-                    HELP
+                    LEADER BOARD
                     <i class="ri-questionnaire-line"></i>
                 </a>
                  </div>

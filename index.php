@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">----------------------------------------------------------------------------------------------------------
-
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -84,7 +83,7 @@
                             <p>Left: 200</p>
                         </div>
                         <a href="participation.php">
-                        <button type="button" class="btn btn-primary">Participate Now</button>
+                        <button type="button" class="btn btn-primary ">Participate Now</button>
                         </a>
                         
                         <div class="max">
@@ -259,7 +258,7 @@
                  </div>
                  <div class="footer_icon">
                     <a href="help.php">
-                    HELP
+                    LEADER BOARD
                     <i class="ri-questionnaire-line"></i>
                 </a>
                  </div>
